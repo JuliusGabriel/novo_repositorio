@@ -11,6 +11,8 @@ nome do grupo:
 Bom dia, nesse repositório apresento minha contribuiçao ao grupo
 mostrando os comandos e o que fazem 
 
+# git init:
+
 O comando git init normalmente é o primeiro comando utilizado em um projeto Git. 
 Ele transforma uma pasta comum do computador em um repositório Git, permitindo o controle de versões dos arquivos e a execução dos comandos do Git no diretório.
 
@@ -22,6 +24,7 @@ Permite o controle de versões dos arquivos.
 Habilita a execução dos comandos Git dentro do diretório.
 Exemplo
 
+# git add and git commit:
 git add e git commit são comandos normalmente utilizados em conjunto. 
 O git add prepara as alterações realizadas nos arquivos para serem registradas. Já o git commit salva essas alterações no histórico do projeto.
 
