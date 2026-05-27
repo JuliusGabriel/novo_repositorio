@@ -2,7 +2,7 @@
 nome do grupo:
 
 ## integrantes: 
-- Eu
+- Julius
 - Takeo
 - Eyck
 - Lucas
